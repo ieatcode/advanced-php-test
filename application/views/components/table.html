@@ -1,0 +1,17 @@
+<table>
+    <thead>
+    {% for item in list|field_to_heading %}
+    <th>{{item}}</th>
+    {% endfor %}
+
+    </thead>
+    {% for item in list %}
+    <tr>
+        {% for row in item|row_to_value %}
+        <td>
+            {{row}}
+        </td>
+        {% endfor %}
+    </tr>
+    {% endfor %}
+</table>

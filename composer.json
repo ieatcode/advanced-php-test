@@ -1,0 +1,19 @@
+{
+    "require": {
+        "openlss/lib-array2xml": "^1.0",
+        "tightenco/collect": "^6.0",
+        "ext-pdo": "*",
+        "twig/twig": "^2.14",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "application",
+            "App\\System\\": "system",
+            "App\\Controllers\\": "application/controllers",
+            "App\\Models\\": "application/models",
+            "App\\Traits\\": "application/traits",
+            "App\\Services\\": "application/services"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91b0bd44-ce62-44c8-ad4d-342394f64e07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/ExportController.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/ExportController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/Roster.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/Roster.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/services/ExportService.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/services/ExportService.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/openlss/lib-array2xml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/collect" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="28gQRebGkRFliT52eYmGji8zLBh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b0bd44-ce62-44c8-ad4d-342394f64e07" name="Default Changelist" comment="" />
+      <created>1651635742016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651635742016</updated>
+      <workItem from="1651635743264" duration="1981000" />
+      <workItem from="1651718641415" duration="8523000" />
+      <workItem from="1651762817429" duration="1579000" />
+      <workItem from="1651805534309" duration="7953000" />
+      <workItem from="1652024629840" duration="3444000" />
+      <workItem from="1652029567527" duration="43000" />
+      <workItem from="1652029651074" duration="23791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1652029996064">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="531" y="222" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652029996064" />
+    <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1652070159857">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="302" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652070159857" />
+    <state x="360" y="142" width="1200" height="763" key="DiffContextDialog" timestamp="1652026063022">
+      <screen x="0" y="22" width="1920" height="1003" />
+    </state>
+    <state x="360" y="142" width="1200" height="763" key="DiffContextDialog/0.22.1920.1003@0.22.1920.1003" timestamp="1652026063022" />
+    <state x="597" y="273" key="NewPhpClassDialog" timestamp="1652029965562">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="597" y="273" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652029965562" />
+    <state x="762" y="470" key="NewPhpFileDialog" timestamp="1652029194935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="762" y="470" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652029194935" />
+    <state x="550" y="228" key="VCS.ChangeListViewerDialog" timestamp="1652026061614">
+      <screen x="0" y="22" width="1920" height="1003" />
+    </state>
+    <state x="550" y="228" key="VCS.ChangeListViewerDialog/0.22.1920.1003@0.22.1920.1003" timestamp="1652026061614" />
+    <state x="652" y="172" width="615" height="735" key="find.popup" timestamp="1652028194354">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="652" y="172" width="615" height="735" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1652028194354" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1652070457638">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1652070457638" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="php-line-method">
+          <url>file://$PROJECT_DIR$/../advanced-php-test2/include/utils.php</url>
+          <line>67</line>
+          <log-expression expression=" */&#10;function asTable($data) {&#10;    if (!$data || !is_array($data) || !count($data)) {&#10;        return 'Sorry, no matching data was found';&#10;    }&#10;    $data = collect($data);&#10;    $styles = '&lt;style type=&quot;text/css&quot;&gt;body{font:16px Roboto,Arial,Helvetica,Sans-serif}td,th{padding:4px 8px}th{background:#eee;font-weight:500}tr:nth-child(odd){background:#f4f4f4}&lt;/style&gt;';&#10;&#10;    // extract headings&#10;    // replace underscores with space &amp; ucfirst each word for a decent heading&#10;    $headings = collect($data-&gt;get(0))-&gt;keys();&#10;    $headings = $headings-&gt;map(function($item, $key) {&#10;        return collect(explode('_', $item))&#10;            -&gt;map(function($item, $key) {&#10;                return ucfirst($item);&#10;            })&#10;            -&gt;join(' ');&#10;    });&#10;    $headings = '&lt;tr&gt;&lt;th&gt;' . $headings-&gt;join('&lt;/th&gt;&lt;th&gt;') . '&lt;/th&gt;&lt;/tr&gt;';&#10;&#10;    // output data&#10;    $rows = [];&#10;    foreach ($data as $dataRow) {&#10;        $row = '&lt;tr&gt;';&#10;        foreach ($dataRow as $key =&gt; $value) {&#10;            $row .= '&lt;td&gt;' . $value . '&lt;/td&gt;';&#10;        }&#10;        $row .= '&lt;/tr&gt;';&#10;        $rows[] = $row;&#10;    }&#10;    $rows = implode('', $rows);&#10;    return $styles . '&lt;table&gt;' . $headings . $rows . '&lt;/table&gt;';&#10;}" language="PHP" />
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\asTable" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
